@@ -1,6 +1,6 @@
 # i-Educar Biblioteca
 
-Módulo de biblioteca para o [i-Educar](https://github.com/portabilis/i-educar).
+Módulo de biblioteca para o [i-Educar](https://github.com/uaefama/i-educar).
 
 ## Instalação
 
@@ -9,7 +9,7 @@ Módulo de biblioteca para o [i-Educar](https://github.com/portabilis/i-educar).
 Clone este repositório a partir da raiz do i-Educar:
 
 ```bash
-git clone git@github.com:portabilis/i-educar-library-package.git packages/portabilis/i-educar-library-package
+git clone git@github.com:uaefama/i-educar-library-package.git packages/uaefama/i-educar-library-package
 ```
 
 Instale o pacote:
@@ -26,10 +26,5 @@ Execute as migrações:
 php artisan migrate
 ```
 
-## Perguntas frequentes (FAQ)
-
-Algumas perguntas aparecem recorrentemente. Olhe primeiro por aqui: [FAQ](https://github.com/portabilis/i-educar-website/blob/master/docs/faq.md).
 
 ---
-
-Powered by [Portábilis](https://portabilis.com.br/).
